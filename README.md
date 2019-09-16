@@ -1,5 +1,7 @@
 # Shell Secrets Manager
 
+![](https://github.com/Smudge3806/sh-secrets-manager/workflows/Lint%20Files/badge.svg)
+
 ## Prerequisites
 
 * gpg - Encryption and Signing tool
