@@ -2,4 +2,4 @@
 
 # cp secrets/mu_file.secret ~/my_file
 
-echo -e "\033[102m Restoration Complete \033[0m"
+echo -e "\\033[102m Restoration Complete \\033[0m"
